@@ -129,6 +129,8 @@ ENV/
 env.bak/
 venv.bak/
 
+AWBackup.zip
+AWBackup/
 # Spyder project settings
 .spyderproject
 .spyproject
